@@ -9,6 +9,8 @@ export class UsuarioComponent {
 public dados = [
   {id:1, nome:"Heitor", idade: 25, sexo:"M", telefone:99999999},
   {id:2, nome:"Hugo", idade: 42, sexo:"M", telefone:888888888},
-  {id:3, nome:"Henrique", idade: 35, sexo:"M", telefone:77777777}
+  {id:3, nome:"Henrique", idade: 35, sexo:"M", telefone:77777777},
+  {id:4, nome:"Manuela", idade: 25, sexo:"F", telefone:66666666}
+
 ]
 }
